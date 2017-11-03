@@ -1,26 +1,3 @@
-<<<<<<< Updated upstream
-
-
-
-HI THIS IS modified file
-
-
-bbye
-
-
-
-
-
-
-
-
-This is testing data
-
-
-bye
-
-
-=======
 #include<STDIO.H>
 #include<conio.h>
 
@@ -41,7 +18,3 @@ getch();
 }
 
 
-//This is COmment Line
-//bye[D[D[D[D[D[F[B[F
-[F[B[B
->>>>>>> Stashed changes
