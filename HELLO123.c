@@ -4,6 +4,7 @@
 
 void main()
 {
+<<<<<<< HEAD
 int a,b,c,d,e;
 clrscr();
 printf("\n\n Etner ab values");
@@ -18,3 +19,13 @@ getch();
 }
 
 
+=======
+int a,b,c;
+clrscr();
+printf("\n\n Etner ab values");
+scanf("%d%d",&a,&b);
+c=a+b;
+printf("The sum of two values are %d",c);
+getch();
+}
+>>>>>>> test

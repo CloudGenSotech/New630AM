@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
 
@@ -21,6 +22,8 @@ bye
 
 
 =======
+=======
+>>>>>>> test
 #include<STDIO.H>
 #include<conio.h>
 
@@ -39,9 +42,12 @@ c=a+b+c+d+e;
 printf("The sum of two values are %d",c);
 getch();
 }
+<<<<<<< HEAD
 
 
 //This is COmment Line
 //bye[D[D[D[D[D[F[B[F
 [F[B[B
 >>>>>>> Stashed changes
+=======
+>>>>>>> test
